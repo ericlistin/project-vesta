@@ -1,0 +1,6 @@
+{
+  "snapshot": "snapshot-20250521-f887e4b8-3b7b-4543-b01b-c4b96263ba72",
+  "install": "cd /workspace && npm install",
+  "start": "cd /workspace && npm run dev",
+  "terminals": []
+}
